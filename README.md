@@ -1,1 +1,1 @@
-Das ist ein Test einer Kody Repository
+Das ist ein Test einer Kodi Repository
